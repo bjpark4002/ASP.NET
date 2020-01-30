@@ -1,0 +1,11 @@
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/bin/Debug/netcoreapp2.1/democonsole.deps.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/bin/Debug/netcoreapp2.1/democonsole.runtimeconfig.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/bin/Debug/netcoreapp2.1/democonsole.runtimeconfig.dev.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/bin/Debug/netcoreapp2.1/democonsole.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/bin/Debug/netcoreapp2.1/democonsole.pdb
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/obj/Debug/netcoreapp2.1/democonsole.csprojAssemblyReference.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/obj/Debug/netcoreapp2.1/democonsole.csproj.CoreCompileInputs.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/obj/Debug/netcoreapp2.1/democonsole.AssemblyInfoInputs.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/obj/Debug/netcoreapp2.1/democonsole.AssemblyInfo.cs
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/obj/Debug/netcoreapp2.1/democonsole.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/obj/Debug/netcoreapp2.1/democonsole.pdb
