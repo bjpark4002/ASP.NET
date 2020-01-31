@@ -6,8 +6,11 @@ namespace democonsole
     {
         static void Main(string[] args)
         {
-            string message = "This is Bumjin ";
-            Console.WriteLine("Hello World!");
+
+            int num1 = 12;
+            int num2 = 13;
+            int sum = num1+num2;
+            Console.WriteLine(sum);
         }
     }
 }
