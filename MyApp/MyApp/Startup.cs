@@ -33,7 +33,7 @@ namespace MyApp
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller}/{action}/{id?}");
+                    template: "{controller=Home}/{action=Student}/{id?}");
             }
             );
 

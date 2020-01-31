@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using MyApp.Models;
+
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -15,5 +17,22 @@ namespace MyApp.Controllers
         {
             return View();
         }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Student(Student model)
+        {
+            if (ModelState.IsValid)
+            {
+                //passed. proceed to next step
+            }
+            else
+            {
+                //show error
+            }
+            return View();
+        }
+      
+
+
     }
 }

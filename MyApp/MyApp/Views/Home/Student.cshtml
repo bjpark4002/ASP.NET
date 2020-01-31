@@ -1,28 +1,34 @@
-﻿<link rel="stylesheet" href="https://maxdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+﻿@using MyApp.Models
+@model Student
+
+<link rel="stylesheet" href="https://maxdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
 <h3>Add New Student</h3>
-<from class="form form-horizontal" method="POST">
-    <div class="" form-group">
+<form class="form form-horizontal" method="POST">
+    <div class="form-group">
         <img src="https://image.ibb.co/iKfYKx/computer.jpg" />
-    </div>"
+    </div>
     <div class="form-group">
-        <div class="form-group">
+        <div class="col-md-3">
             <label>Name:</label>
-            <input type="text" class="form-control" name="name">
-
-
+            <input type="text" class="form-control" asp-for="Name">
+            <span asp-validation-for="Name"></span>
         </div>
     </div>
     <div class="form-group">
         <div class="col-md-3">
             <label>Age:</label>
-            <input type="text" class="form-control" name="age">
+            <input type="text" class="form-control" asp-for="Age">
+            <span asp-validation-for="Age"></span>
         </div>
     </div>
     <div class="form-group">
         <div class="col-md-3">
-            <label>Age:</label>
-            <input type="text" class="form-control" name="country">
+            <label>Country:</label>
+            <input type="text" class="form-control" asp-for="Country">
+            <span asp-validation-for="Country"></span>
         </div>
     </div>
-    <button type="submit" class="btn btn-default">Submit < /button>
-</from>
+    <button type="submit" class="btn btn-default">Submit</button>
+</form>
+    
