@@ -12,7 +12,7 @@ namespace MyApp.Models
         public Student()
         {
         }
-
+        public int Id { get; set; }
         //write prop and tap twice. ( short key for creating getset)
         //[BindNever]
         [Required]
