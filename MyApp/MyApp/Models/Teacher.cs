@@ -8,8 +8,7 @@ namespace MyApp.Models
     public class Teacher 
     {
         public Teacher()
-        {
-
+        { }
 
         public int Id { get; set; }
 
