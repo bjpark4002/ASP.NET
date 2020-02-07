@@ -1,0 +1,10 @@
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp2.1/CollectionDemoConApp.deps.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp2.1/CollectionDemoConApp.runtimeconfig.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp2.1/CollectionDemoConApp.runtimeconfig.dev.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp2.1/CollectionDemoConApp.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/bin/Debug/netcoreapp2.1/CollectionDemoConApp.pdb
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp2.1/CollectionDemoConApp.csprojAssemblyReference.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp2.1/CollectionDemoConApp.AssemblyInfoInputs.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp2.1/CollectionDemoConApp.AssemblyInfo.cs
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp2.1/CollectionDemoConApp.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/CollectionDemoConApp/CollectionDemoConApp/obj/Debug/netcoreapp2.1/CollectionDemoConApp.pdb
