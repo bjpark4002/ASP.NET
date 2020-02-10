@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/singleton.csproj": {}
+  },
+  "projects": {
+    "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/singleton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/singleton.csproj",
+        "projectName": "singleton",
+        "projectPath": "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/singleton.csproj",
+        "packagesPath": "/Users/bumjinpark/.nuget/packages/",
+        "outputPath": "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bumjinpark/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

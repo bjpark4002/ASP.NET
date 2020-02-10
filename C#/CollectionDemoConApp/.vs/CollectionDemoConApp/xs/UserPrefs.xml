@@ -1,9 +1,6 @@
 ﻿<Properties StartupConfiguration="{B6BDD994-2107-4364-9653-6B86C51E04C7}|Default">
-  <MonoDevelop.Ide.ItemProperties.CollectionDemoConApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionDemoConApp/Program.cs">
-    <Files>
-      <File FileName="CollectionDemoConApp/Program.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.CollectionDemoConApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">

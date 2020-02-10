@@ -1,0 +1,10 @@
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/bin/Debug/netcoreapp2.1/singleton.deps.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/bin/Debug/netcoreapp2.1/singleton.runtimeconfig.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/bin/Debug/netcoreapp2.1/singleton.runtimeconfig.dev.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/bin/Debug/netcoreapp2.1/singleton.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/bin/Debug/netcoreapp2.1/singleton.pdb
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/obj/Debug/netcoreapp2.1/singleton.csprojAssemblyReference.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/obj/Debug/netcoreapp2.1/singleton.AssemblyInfoInputs.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/obj/Debug/netcoreapp2.1/singleton.AssemblyInfo.cs
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/obj/Debug/netcoreapp2.1/singleton.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/singleton/singleton/obj/Debug/netcoreapp2.1/singleton.pdb
