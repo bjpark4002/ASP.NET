@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/democonsole.csproj": {}
+    "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/delegatePractice.csproj": {}
   },
   "projects": {
-    "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/democonsole.csproj": {
+    "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/delegatePractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/democonsole.csproj",
-        "projectName": "democonsole",
-        "projectPath": "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/democonsole.csproj",
+        "projectUniqueName": "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/delegatePractice.csproj",
+        "projectName": "delegatePractice",
+        "projectPath": "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/delegatePractice.csproj",
         "packagesPath": "/Users/bumjinpark/.nuget/packages/",
-        "outputPath": "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/Practice1/democonsole/obj/",
+        "outputPath": "/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

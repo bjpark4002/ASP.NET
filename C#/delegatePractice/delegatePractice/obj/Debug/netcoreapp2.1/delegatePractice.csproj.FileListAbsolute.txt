@@ -1,0 +1,10 @@
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/bin/Debug/netcoreapp2.1/delegatePractice.deps.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/bin/Debug/netcoreapp2.1/delegatePractice.runtimeconfig.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/bin/Debug/netcoreapp2.1/delegatePractice.runtimeconfig.dev.json
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/bin/Debug/netcoreapp2.1/delegatePractice.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/bin/Debug/netcoreapp2.1/delegatePractice.pdb
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/obj/Debug/netcoreapp2.1/delegatePractice.csprojAssemblyReference.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/obj/Debug/netcoreapp2.1/delegatePractice.AssemblyInfoInputs.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/obj/Debug/netcoreapp2.1/delegatePractice.AssemblyInfo.cs
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/obj/Debug/netcoreapp2.1/delegatePractice.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/C#/delegatePractice/delegatePractice/obj/Debug/netcoreapp2.1/delegatePractice.pdb
