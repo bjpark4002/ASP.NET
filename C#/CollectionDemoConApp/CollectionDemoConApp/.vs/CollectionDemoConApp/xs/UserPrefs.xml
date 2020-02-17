@@ -4,7 +4,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CollectionDemoConApp" expanded="True" selected="True" />
+          <Node name="CollectionDemoConApp" expanded="True">
+            <Node name="CollectionDemoConApp" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
