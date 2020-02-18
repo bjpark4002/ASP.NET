@@ -1,0 +1,138 @@
+﻿@model TropicalServerApp.Models.Customer
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - TropicalServer</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/TropicalStyles/Login.css" />
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+@*<body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>*@
+<body>
+
+
+
+    <div class="container">
+
+        <div id="container">
+
+            <div class="imageDisplay">
+                <img height="100" src="@Url.Content("~/Images/Header.jpg")" />
+               
+            </div>
+            @*<div id="a" class="div1 borderBackgr_1">*@
+        <div id="BodyDetail">
+            <label>Mobile Customer Order Tracking </label>
+            <form id="loginBox" action="ValidateLogin" , method="post">
+
+                <label id="useridlbl">Login ID:</label>
+                <input type="text" id="useridtextbox" name="LoginId" value="@Model.LoginId"/> <br />
+                @*@Html.ValidationMessageFor(x=> x.LoginId)<br />*@
+
+                <lable id="passwordlbl">Password:</lable>
+                <input type="password" id="passwordtextbox" name="Password" value="@Model.Password"/> <br />
+                @*@Html.ValidationMessageFor(x=> x.Password)*@
+
+                <div id="login">
+                    <lable>Remember My Id</lable>
+                    <input type="checkbox" />
+                    <input type="submit" id="LoginBtn_1" name="Submit" value="Log-In" />
+                    <br />
+                </div>
+                <div id="forgot">
+                    <br />
+                    <label id="forgotUsername">Forgot Username</label>
+                    <label id="forgotPassword">Forgot Username</label>
+                </div>
+
+            </form>
+            
+
+            @*Mobile Customer Order Tracking
+        <div id="b" class="div2 borderBackgr_2">
+            <ul class="list">
+                <li><label>Login ID: </label><input type="text" name="LoginId" placeholder="Login Id" style="width:200px" /></li>
+                <li><label>Password: </label><input type="password" name="Password" placeholder="Password" style="width:200px" /></li>
+            </ul>
+            <label>Remember my ID</label><input type="checkbox" name="RememberMyId" value="Remember"  /> <input id="loginForm"type="button" name="Submit" value="Log-In" />
+
+        </div>
+
+        <br />
+        <label id="forgotUsername"style="top:380px">Forgot Username</label>
+        <label id="forgotPassword"style="top:380px">Forgot Password</label>*@
+
+
+            @*Login Box  Here *@
+
+
+            @*<ul class="list" >
+            <li>Mobile Customer Order Tracking</li>
+            <li><label>Login ID: </label><input type="text" name="LoginId" placeholder="Login Id" /></li>
+            <li><label>Password: </label><input type="password" name="Password" placeholder="Password" /></li>
+            <li><label>Remember my ID</label><input type="checkbox" name="RememberMyId" value="Remember" /></li>
+
+            <li><input type="button" name="Submit" value="Log-In" /></li>
+            <li>Forgot Username</li>
+            <li>Forgot Password</li>
+
+
+        </ul>*@
+
+        </div>
+
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>
+
+    </div>
+
+
+
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+ </body>
+</html>
