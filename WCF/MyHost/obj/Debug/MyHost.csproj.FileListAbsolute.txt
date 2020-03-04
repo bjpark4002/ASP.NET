@@ -1,0 +1,10 @@
+C:\Users\bumjinpark\Desktop\WCF\MyHost\bin\Debug\MyHost.exe.config
+C:\Users\bumjinpark\Desktop\WCF\MyHost\bin\Debug\MyHost.exe
+C:\Users\bumjinpark\Desktop\WCF\MyHost\bin\Debug\MyHost.pdb
+C:\Users\bumjinpark\Desktop\WCF\MyHost\bin\Debug\WCF.dll
+C:\Users\bumjinpark\Desktop\WCF\MyHost\bin\Debug\WCF.pdb
+C:\Users\bumjinpark\Desktop\WCF\MyHost\bin\Debug\WCF.dll.config
+C:\Users\bumjinpark\Desktop\WCF\MyHost\obj\Debug\MyHost.csprojAssemblyReference.cache
+C:\Users\bumjinpark\Desktop\WCF\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+C:\Users\bumjinpark\Desktop\WCF\MyHost\obj\Debug\MyHost.exe
+C:\Users\bumjinpark\Desktop\WCF\MyHost\obj\Debug\MyHost.pdb

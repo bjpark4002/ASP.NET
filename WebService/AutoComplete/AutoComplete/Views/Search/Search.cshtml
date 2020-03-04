@@ -1,0 +1,81 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.0.min.js" type="text/javascript"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.9.2/jquery-ui.min.js" type="text/javascript"></script>
+    <link href="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.9.2/themes/blitzer/jquery-ui.css"
+          rel="Stylesheet" type="text/css" />
+
+
+</head>
+
+<body>
+
+    <div>
+        <br />
+        <a>Input:</a>
+        <input type="text" name="txtName" style="margin-left:30px" />
+        <input type="text" id="txtSubCategory"
+               placeholder="Search..." />
+        <input type="hidden" id="hfSubCategory" />
+
+    </div>
+
+
+    <script>
+
+        // Search bar
+        $(function () {
+            $("#txtSubCategory").autocomplete({
+                
+                source: function (request, response) {
+                    console.log("test");
+                    $.ajax({
+                        url: '../Search/AutoComplete',
+                        //data: { 'prefix': request.term },
+                        data: "{ 'prefix': '" + request.term + "'}",
+                        dataType: "json",
+                        type: "POST",   
+                        contentType: "application/json; charset=utf-8",
+                        success: function (data) {
+                            response($.map(data, function (item) {
+                                return item;
+                            }))
+                        },
+                        error: function (response) {
+                            //alert(response.responseText);
+                            alert("failed");
+                            
+                        },
+                        failure: function (response) {
+                            alert(response.responseText);
+                        }
+                    });
+                },
+                select: function (e, i) {
+                    $("#hfSubCategory").val(i.item.val);
+                },
+                minLength: 0
+            }).focus(function () {
+                $(this).autocomplete("search");
+            });
+        });
+    </script>
+</body>
+</html>
+
+</html>

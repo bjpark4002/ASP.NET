@@ -1,0 +1,6 @@
+C:\Users\bumjinpark\Desktop\ConsoleApp_Client\ConsoleApp_Client\bin\Debug\ConsoleApp_Client.exe.config
+C:\Users\bumjinpark\Desktop\ConsoleApp_Client\ConsoleApp_Client\bin\Debug\ConsoleApp_Client.exe
+C:\Users\bumjinpark\Desktop\ConsoleApp_Client\ConsoleApp_Client\bin\Debug\ConsoleApp_Client.pdb
+C:\Users\bumjinpark\Desktop\ConsoleApp_Client\ConsoleApp_Client\obj\Debug\ConsoleApp_Client.csprojAssemblyReference.cache
+C:\Users\bumjinpark\Desktop\ConsoleApp_Client\ConsoleApp_Client\obj\Debug\ConsoleApp_Client.exe
+C:\Users\bumjinpark\Desktop\ConsoleApp_Client\ConsoleApp_Client\obj\Debug\ConsoleApp_Client.pdb
