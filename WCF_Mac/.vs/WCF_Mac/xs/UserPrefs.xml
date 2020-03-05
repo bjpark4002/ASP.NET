@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5090555B-127C-4118-8AE2-985A633BC348}|">
+  <MonoDevelop.Ide.ItemProperties.WCF__Mac PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WCF_Mac/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="WCF_Mac/Controllers/HomeController.cs" Line="5" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WCF_Mac" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WCF__Mac.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

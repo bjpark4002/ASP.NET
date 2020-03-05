@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7719F93F-FFF4-47BB-8DE3-C66100CC31E9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WCF/WEF_Service.asmx">
+    <Files>
+      <File FileName="WCF/Global.asax" Line="1" Column="1" />
+      <File FileName="WCF/WEF_Service.asmx" Line="8" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WCF" expanded="True">
+            <Node name="WCF" expanded="True">
+              <Node name="WEF_Service.asmx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WCF PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

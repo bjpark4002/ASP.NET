@@ -1,0 +1,5 @@
+/Users/bumjinpark/Desktop/Git/ASP.NET/WCF_TEST/WCF/WCF/bin/WCF.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/WCF_TEST/WCF/WCF/bin/WCF.pdb
+/Users/bumjinpark/Desktop/Git/ASP.NET/WCF_TEST/WCF/WCF/obj/Debug/WCF.csprojAssemblyReference.cache
+/Users/bumjinpark/Desktop/Git/ASP.NET/WCF_TEST/WCF/WCF/obj/Debug/WCF.dll
+/Users/bumjinpark/Desktop/Git/ASP.NET/WCF_TEST/WCF/WCF/obj/Debug/WCF.pdb

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Mac", "WCF_Mac\WCF_Mac.csproj", "{5090555B-127C-4118-8AE2-985A633BC348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Mac.Tests", "WCF_Mac.Tests\WCF_Mac.Tests.csproj", "{61CE0E46-A694-494D-9F70-4BECE2781ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5090555B-127C-4118-8AE2-985A633BC348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5090555B-127C-4118-8AE2-985A633BC348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5090555B-127C-4118-8AE2-985A633BC348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5090555B-127C-4118-8AE2-985A633BC348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CE0E46-A694-494D-9F70-4BECE2781ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CE0E46-A694-494D-9F70-4BECE2781ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CE0E46-A694-494D-9F70-4BECE2781ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CE0E46-A694-494D-9F70-4BECE2781ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
